@@ -1,0 +1,11 @@
+C:\Users\erick.medina\source\repos\Logs\Logs\bin\Debug\netcoreapp2.0\Logs.deps.json
+C:\Users\erick.medina\source\repos\Logs\Logs\bin\Debug\netcoreapp2.0\Logs.runtimeconfig.json
+C:\Users\erick.medina\source\repos\Logs\Logs\bin\Debug\netcoreapp2.0\Logs.runtimeconfig.dev.json
+C:\Users\erick.medina\source\repos\Logs\Logs\bin\Debug\netcoreapp2.0\Logs.dll
+C:\Users\erick.medina\source\repos\Logs\Logs\bin\Debug\netcoreapp2.0\Logs.pdb
+C:\Users\erick.medina\source\repos\Logs\Logs\obj\Debug\netcoreapp2.0\Logs.csprojAssemblyReference.cache
+C:\Users\erick.medina\source\repos\Logs\Logs\obj\Debug\netcoreapp2.0\Logs.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\source\repos\Logs\Logs\obj\Debug\netcoreapp2.0\Logs.AssemblyInfoInputs.cache
+C:\Users\erick.medina\source\repos\Logs\Logs\obj\Debug\netcoreapp2.0\Logs.AssemblyInfo.cs
+C:\Users\erick.medina\source\repos\Logs\Logs\obj\Debug\netcoreapp2.0\Logs.dll
+C:\Users\erick.medina\source\repos\Logs\Logs\obj\Debug\netcoreapp2.0\Logs.pdb
